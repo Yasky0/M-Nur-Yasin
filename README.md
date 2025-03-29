@@ -1,4 +1,4 @@
-## Hi, I'm TechnoDev! 👋
+## Hi, I'm M Nur Yasin 👋
 I build AI, automate things, and sometimes pretend to be a normal human.
 
 ### 🔧 Tech Stack:
