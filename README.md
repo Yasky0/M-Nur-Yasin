@@ -12,4 +12,4 @@ I build AI, automate things, and sometimes pretend to be a normal human.
 
 ### 📫 Connect with me:
 - 💬 Let's talk about AI & Robotics on [TikTok](https://www.tiktok.com/@yasky_aiage)
-- 🚀 Check out my latest projects on [GitHub](https://github.com/yourusername)
+- 🚀 Check out my latest projects on [GitHub](https://github.com/Yasky0)
